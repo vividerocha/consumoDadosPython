@@ -1,0 +1,2 @@
+# consumoDadosPython
+aula prática
